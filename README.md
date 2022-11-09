@@ -18,8 +18,8 @@
 - 다른 사람이 읽었을 때 이해하기 쉽게 작성한다.
 
 ## 📖 현황
-- [1. 프로그래밍](01-프로그래밍/README.md)
-- [2. 자바스크립트란](02-자바스크립트란/README.md)
-- [4. 변수](04-변수/README.md)
-- [5. 표현식과 문](05-표현식과문/README.md)
-- [6. 타입](06-타입/README.md)
+- [1. 프로그래밍](Chapter01/README.md)
+- [2. 자바스크립트란](Chapter02/README.md)
+- [4. 변수](Chapter04/README.md)
+- [5. 표현식과 문](Chapter05/README.md)
+- [6. 타입](Chapter06/README.md)
